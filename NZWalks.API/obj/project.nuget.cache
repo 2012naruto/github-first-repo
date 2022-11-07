@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFWHayq2iVacksOugm0N/axmpQvbHtwvVCV4u5pL7F+Q4j+a0MjeIAu2XBjEK3uKY/dPSsaodRCspp+pw7C1Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pooja\\gitcourse\\github-first-repo\\NZWalks.API\\NZWalks.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pooja\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pooja\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pooja\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Pooja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Pooja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Pooja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
