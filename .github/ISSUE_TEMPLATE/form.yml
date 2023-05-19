@@ -10,7 +10,7 @@ body:
          Use this form to fill the details
  
   - type: dropdown
-    id: organization
+    
     attributes:
       label: Enter your Organization
       options:
