@@ -2,7 +2,8 @@ name: Onboarding Form
 description: create an issue
 title: "Issue onboarding request for [Application name]"
 labels: ["Onboarding", Needs Triage]
-  body:
+
+body:
   - type: markdown
     attributes:
       value: |
