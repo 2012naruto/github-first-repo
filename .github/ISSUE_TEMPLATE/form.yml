@@ -11,8 +11,9 @@ body:
   - type: dropdown
     id: organization
     attributes:
-      label:Enter your Organization
-
+      label: Enter your Organization
+      options:
+        - CIBCEMUORG
   - type: input
     id: repository name
     attributes:
