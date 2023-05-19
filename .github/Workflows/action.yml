@@ -1,6 +1,7 @@
 name: Issue Forms Body Parser
 
-on: issues
+on: 
+  workflow_dispatch:
 
 jobs:
   process:
