@@ -10,13 +10,13 @@ body:
          Use this form to fill the details
  
   - type: dropdown
-    
+    id: org
     attributes:
       label: Enter your Organization
       options:
         - CIBCEMUORG
   - type: input
-    
+    id: repo
     attributes:
       label: Enter your repo name
 
