@@ -2,24 +2,24 @@ name: Onboarding Form
 description: create an issue
 title: "Issue onboarding request for [Application name]"
 labels: ["Onboarding", Needs Triage]
-body:
-- type: markdown
-  attributes:
-    value: |
-       Use this form to fill the details
-- type: dropdown
-  id: organization
-  attributes:
-    label:Enter your Organization
-    
-- type: input
-  id: repository name
-  attributes:
-    label: Enter your repo name
-   
-- type: textarea
-  id: users 
-  attributes:
-    label: Add users
-    description: Add the required users
-    placeholder:  "User"
+  body:
+  - type: markdown
+    attributes:
+      value: |
+         Use this form to fill the details
+  - type: dropdown
+    id: organization
+    attributes:
+      label:Enter your Organization
+
+  - type: input
+    id: repository name
+    attributes:
+      label: Enter your repo name
+
+  - type: textarea
+    id: users 
+    attributes:
+      label: Add users
+      description: Add the required users
+      placeholder:  "User"
