@@ -8,5 +8,5 @@ jobs:
     steps:
       - name: Issue Forms Body Parser
         id: parse
-        uses: zentered/issue-forms-body-parser@v2.0.0
+        uses: andyfeller/issueops-createrepo/parse@v1
       - run: echo ${{ toJSON(steps.parse.outputs.data) }}
