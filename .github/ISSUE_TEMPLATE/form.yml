@@ -8,6 +8,7 @@ body:
     attributes:
       value: |
          Use this form to fill the details
+ 
   - type: dropdown
     id: organization
     attributes:
@@ -24,4 +25,4 @@ body:
     attributes:
       label: Add users
       description: Add the required users
-      placeholder:  "User"
+      placeholder:  User
